@@ -88,7 +88,7 @@ Desarrollador **fullstack** y **director de proyectos de software**, con perfil 
 <p align="center">
   <a href="https://github.com/JairSalinasA"><img src="https://img.shields.io/badge/Hablemos-0A66C2.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jair@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:jairbaldemar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---

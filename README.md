@@ -1,84 +1,69 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Yuji+Syuku&size=32&duration=4000&color=FF9EC4&center=true&vCenter=true&width=600&lines=%F0%9F%8C%B8+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%F0%9F%8C%B8;Hola+%2F+Hello+%2F+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;Jair+Salinas+%E2%80%94+Fullstack+Developer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/readme.svg" width="1" height="1" />
-  <b>🌸 さくら — Sakura 🌸</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&color=9AA5B1&center=true&vCenter=true&width=700&lines=%24+whoami;Jair+Salinas+%E2%80%94+Fullstack+Developer;SEFINA+%2F+DTD+%2F+Equipo+ESEFINA" alt="Typing SVG" />
 </p>
 
 ```text
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+     █                                                     █
+     █   SIGTI   Sistema Integral de Gobierno y           █
+     █           Transición de Tecnologías y Software     █
+     █                                                     █
+     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JairSalinasA&color=ff9ec4&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Gobierno-Tecnolog%C3%ADas-ff9ec4?style=flat-square&logo=github&logoColor=white" alt="SIGTI" />
+  <a href="https://github.com/JairSalinasA"><img src="https://komarev.com/ghpvc/?username=JairSalinasA&color=8B0000&style=flat-square" alt="views" /></a>
 </p>
 
 ---
 
-## 🌸 私について — Sobre mí
+**Fullstack developer** en la Dirección de Tecnologías y Desarrollo (DTD) de la Secretaría de Finanzas (SEFINA), equipo ESEFINA.
 
-> *"花より団子" — A veces lo práctico supera lo bello, pero yo busco ambos.*
+Construyo sistemas para el **gobierno y la transición de tecnologías** en el sector público. Conciso, con orden y sin ruido.
 
-Soy **Jair Salinas**, desarrollador **fullstack** en la Dirección de Tecnologías y Desarrollo (DTD) de la **Secretaría de Finanzas (SEFINA)**, en el equipo **ESEFINA**.
-
-Construyo sistemas de **gobierno y transición de tecnologías** con calma y atención al detalle — como cuidar un cerezo hasta que florece.
-
-| 🌸 | Área | Detalle |
-|---|---|---|
-| 🏯 | **Proyecto actual** | **SIGTI** — Sistema Integral de Gobierno y Transición de Tecnologías y Software |
-| 🗂️ | **Gestión** | Gestor de proyectos tipo Jira + Drive + módulo de Gobierno |
-| 🏛️ | **Sector** | Gobierno / Sector público |
+| Proyecto | Descripción |
+|---|---|
+| **SIGTI** | Gestor de proyectos (tipo Jira) + Drive + módulo de Gobierno (requerimientos, incidentes, inventarios, transición y revocación) |
+| **Stack** | React · Vite · Node/Express · PostgreSQL · JWT · 2FA (TOTP) |
 
 ---
 
-## 🌸 技術 — Tecnologías
+## Tecnologías
+
+```
+REACT     ████████████████████████████████░░  96%
+NODE/EX   ███████████████████████████████░░░  92%
+POSTGRES  ██████████████████████████████░░░░  88%
+GIT/GH    ██████████████████████████████████ 100%
+TYPESCRIPT ████████████████████████░░░░░░░░░  70%
+```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=ff9ec4" />
-  <img src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=ff9ec4" />
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=ff9ec4" />
-  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=ff9ec4" />
-  <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=ff9ec4" />
-  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=ff9ec4" />
-  <img src="https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens&logoColor=ff9ec4" />
-  <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=ff9ec4" />
-  <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=ff9ec4" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=8B0000" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=8B0000" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=8B0000" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=8B0000" />
 </p>
 
 ---
 
-## 🌸 統計 — GitHub Stats
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JairSalinasA&show_icons=true&theme=tokyonight&title_color=ff9ec4&icon_color=ff9ec4&text_color=c0caf5&bg_color=1a1b27&border_color=ff9ec4" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairSalinasA&layout=compact&theme=tokyonight&title_color=ff9ec4&text_color=c0caf5&bg_color=1a1b27&border_color=ff9ec4" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JairSalinasA&theme=tokyonight&border=ff9ec4&stroke=ff9ec4&ring=ff9ec4&fire=ff9ec4&currStreakNum=c0caf5&sideNums=c0caf5&sideLabels=ff9ec4&dates=c0caf5" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JairSalinasA&show_icons=true&theme=dark&title_color=9AA5B1&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairSalinasA&layout=compact&theme=dark&title_color=9AA5B1&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="langs" />
 </p>
 
 ---
 
-## 🌸 現在 — Actualmente
+## Estado
 
-- 🌱 Aprendiendo: **TypeScript** y buenas prácticas de seguridad
-- 🚀 Construyendo: **SIGTI** — transición de tecnologías con checklist de revocación y gobierno de TI
-- 🧠 Intereses: automatización, seguridad, gobierno digital
-- 🎌 Estética: minimalismo japonés, cerezos, orden y armonía
+- Construyendo **SIGTI** — gobierno y transición de tecnologías
+- Aprendiendo TypeScript y seguridad
+- Sector público · gobierno digital
 
 ---
 
-## 🌸 連絡 — Contacto
-
 <p align="center">
-  <a href="https://github.com/JairSalinasA"><img src="https://img.shields.io/badge/GitHub-ff9ec4?style=for-the-badge&logo=github&logoColor=1a1b27" /></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" width="1" height="1" />
-  🌸 桜とともに — Con los cerezos, siempre en primavera. 🌸
+  <code>github.com/JairSalinasA</code>
 </p>

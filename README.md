@@ -17,7 +17,7 @@
 
 Desarrollador **fullstack** con foco en construir sistemas web que resuelven problemas reales.
 
-- 🔭 Construyendo **SIGTI** — plataforma integral de gestión y transición tecnológica
+- 🔭 Construyendo proyectos web fullstack
 - 🌱 Aprendiendo **TypeScript** y buenas prácticas de seguridad
 - 🛠️ Stack: React · Vite · Node/Express · PostgreSQL · JWT · 2FA
 - 🎯 Me gusta el código limpio, el orden y las cosas bien hechas
@@ -43,29 +43,14 @@ Desarrollador **fullstack** con foco en construir sistemas web que resuelven pro
 
 ---
 
-### 📌 Proyecto destacado
-
-<p align="center">
-  <a href="https://github.com/JairSalinasA/SIGTI">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JairSalinasA&repo=SIGTI&theme=tokyonight&hide_border=true&title_color=f7768e&icon_color=7aa2f7" alt="SIGTI" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JairSalinasA&show_icons=true&theme=tokyonight&hide_border=true&title_color=f7768e&icon_color=7aa2f7&bg_color=1a1b27" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairSalinasA&layout=compact&theme=tokyonight&hide_border=true&title_color=f7768e&bg_color=1a1b27" alt="top langs" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JairSalinasA&theme=tokyonight&hide_border=true&ring=f7768e&fire=f7768e&currStreakNum=7aa2f7&sideNums=c0caf5" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=JairSalinasA&bg_color=1a1b27&color=c0caf5&line=f7768e&point=7aa2f7&hide_border=true" alt="activity graph" />
 </p>
 
 ---
